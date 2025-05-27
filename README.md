@@ -1,6 +1,6 @@
 📄 Deskripsi Adapter Paydia SNAP
 
-    Terima pembayaran QRIS dinamis melalui layanan Paydia SNAP. Adapter ini menghubungkan invoice pelanggan dengan sistem pembayaran Paydia secara langsung dan real-time. Mendukung mode produksi dan sandbox, serta proses transaksi otomatis dengan notifikasi ke sistem FOSSBilling.
+Terima pembayaran QRIS dinamis melalui layanan Paydia SNAP. Adapter ini menghubungkan invoice pelanggan dengan sistem pembayaran Paydia secara langsung dan real-time. Mendukung mode produksi dan sandbox, serta proses transaksi otomatis dengan notifikasi ke sistem FOSSBilling.
 
 Fitur Utama:
 
